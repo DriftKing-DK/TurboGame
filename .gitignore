@@ -5,3 +5,7 @@ UserSettings/
 Logs/
 
 *.DS_Store
+
+/[Unity]
+/[Assembly]
+.vscode/
